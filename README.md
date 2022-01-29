@@ -2,7 +2,10 @@
 
 Instruções para por a funcionar este projeto no seu pc:
 * abrir linha de comandos `cmd` 
-* executar comando `git clone https://github.com/pci-web/aula1`
+* executar comando:
+```bash
+git clone https://github.com/pci-web/aula1
+```
 * abrir a pasta `aula1` com o Pycharm
 * no terminal do PyCharm executar:
 ```bash
