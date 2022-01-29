@@ -1,12 +1,11 @@
 # aula1
 
-Instruções:
-* abrir linha de comandos `cmd`
-* comando `git clone https://github.com/pci-web/aula1`
+Instruções para por a funcionar este projeto no seu pc:
+* abrir linha de comandos `cmd` 
+* executar comando `git clone https://github.com/pci-web/aula1`
 * abrir a pasta `aula1` com o Pycharm
 * no terminal do PyCharm executar:
 ```bash
-pip install -r requirements.txt
 py manage.py runserver
 ```
 
